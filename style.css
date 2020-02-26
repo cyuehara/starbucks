@@ -1,0 +1,21 @@
+.ui.borderless.topmenu.menu {
+  box-shadow: none;
+}
+
+.firstrow{
+  background-color: #006241;
+  text-align: center;
+  color: white;
+}
+
+.secondrow{
+  background-color: white;
+  padding-right: 20px;
+}
+
+.thirdrow{
+  background-color: #DFECE5;
+  color: #006241;
+  font-size: 50px;
+  text-align: center;
+}
